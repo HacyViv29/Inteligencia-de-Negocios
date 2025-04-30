@@ -1,1 +1,0 @@
-Archivo creado con la finalidad de actualizar la creación de la carpeta, eliminar cuando esta sea requerida.
